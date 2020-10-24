@@ -34,4 +34,25 @@ type: "Plane - Zaegoth"
 planeshift: "Whenever you choose one or more targets, each player reveals the top card of his or her library. The player who reveals the card with the highest converted mana cost may change the target or targets. If two or more cards are tied for highest cost, the target or targets remain unchanged."
 chaos: "Scry 3"
 }
+{
+id: 23 
+name: "Edge of Malacol"
+type: Plane - Belenon"
+planeshift: At the beginning of your upkeep may choose to put two +1/+1 counters on target creature you control, if you do tap that creature.
+chaos: "Untap each creature you control."
+}
+{
+id: 24 
+name: "Eloren Wilds"
+type: "Plane - Shandalar"
+planeshift: "Whenever a player taps a permanent for mana, that player adds one mana to his or her mana pool of any type that permanent produced"
+chaos: "That player can't cast spells until a player planeswalks."
+}
+{
+id: 25 
+name: Emeria
+type: "Plane - Zendikar"
+planeshift: "At the beginning of your upkeep, if you control seven or more basic lands of the same type you may return a target creature from your graveyard to the battlefield."
+chaos: "You may return target permanent card from your graveyard to your hand." 
+}
 }
