@@ -1,0 +1,35 @@
+{{
+id: 1
+name: Academy at Tolaria West
+type: "Plane - Dominaria"
+planeshift: "At the beginning of your end step, if you have no cards in hand, draw three cards."
+chaos: "Draw a card."
+}
+{
+id: 2
+name: Akoum
+type: "Plane - Zendikar"
+planeshift: "Players may cast enchantment spells as though they had flash."
+chaos: "Destroy target creature you control and a target creature an opponent controls. They can't be regenerated. A player can only do this as a sorcery."
+}
+id: 3
+name: Alefis Tavern
+type: "Plane - Zaegoth"
+planeshift: "Target creature gains +2/+2 and Goad until the beginning of your next turn"
+chaos: "Choose a color. All creatures of the chosen color gain Goad until the beginning of your next turn."
+}
+{
+id: 4
+name: Apocrypha
+type: "Plane - Oblivion"
+planeshift: "At the beginning of your post-combat Main phase, choose and exile target card from your hand. You may play that card this turn and that card costs {2} less to cast."
+chaos: "You may cast target instant or sorcery from target player's graveyard, it costs {2) less to cast and you may spend mana as though it were mana of any color to cast that spell."
+}
+{
+id: 5
+name: Archmages Chambers
+type: "Plane - Zaegoth"
+planeshift: "Whenever you choose one or more targets, each player reveals the top card of his or her library. The player who reveals the card with the highest converted mana cost may change the target or targets. If two or more cards are tied for highest cost, the target or targets remain unchanged."
+chaos: "Scry 3"
+}
+}
