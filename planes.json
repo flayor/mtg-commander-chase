@@ -35,6 +35,13 @@ planeshift: "Whenever you choose one or more targets, each player reveals the to
 chaos: "Scry 3"
 }
 {
+id: 6 
+Name: Arena of Heros
+Type: Plane: Zaegoth
+Planeshift: At the end of your turn you may have a target creature you control deal damage equal to its power to target creature an opponent controls.
+Chaos: Choose a target creature you control and a target creature an opponent controls, those creatures fight.
+}
+{
 id: 23 
 name: "Edge of Malacol"
 type: Plane - Belenon"
