@@ -1,58 +1,211 @@
 {
 {
 id: 1
-name: Academy at Tolaria West
-type: "Plane - Dominaria"
-planeshift: "At the beginning of your end step, if you have no cards in hand, draw three cards."
-chaos: "Draw a card."
+Name: Academy at Tolaria West
+Type: "Plane - Dominaria"
+Planeshift: "At the beginning of your end step, if you have no cards in hand, draw three cards."
+Chaos: "Draw a card."
 }
 {
 id: 2
-name: Akoum
-type: "Plane - Zendikar"
-planeshift: "Players may cast enchantment spells as though they had flash."
-chaos: "Destroy target creature you control and a target creature an opponent controls. They can't be regenerated. A player can only do this as a sorcery."
+Name: Akoum
+Type: "Plane - Zendikar"
+Planeshift: "Players may cast enchantment spells as though they had flash."
+Chaos: "Destroy target creature you control and a target creature an opponent controls. They can't be regenerated. A player can only do this as a sorcery."
 }
 {
 id: 3
-name: Alefis Tavern
-type: "Plane - Zaegoth"
-planeshift: "Target creature gains +2/+2 and Goad until the beginning of your next turn"
-chaos: "Choose a color. All creatures of the chosen color gain Goad until the beginning of your next turn."
+Name: Alefis Tavern
+Type: "Plane - Zaegoth"
+Planeshift: "Target creature gains +2/+2 and Goad until the beginning of your next turn"
+Chaos: "Choose a color. All creatures of the chosen color gain Goad until the beginning of your next turn."
 }
 {
 id: 4
-name: Apocrypha
-type: "Plane - Oblivion"
-planeshift: "At the beginning of your post-combat Main phase, choose and exile target card from your hand. You may play that card this turn and that card costs {2} less to cast."
-chaos: "You may exile target instant or sorcery card from target player's graveyard, until end of turn you may cast that card it costs {2) less to cast and you may spend mana as though it were mana of any color to cast that spell."
+Name: Apocrypha
+Type: "Plane - Oblivion"
+Planeshift: "At the beginning of your post-combat Main phase, choose and exile target card from your hand. You may play that card this turn and that card costs {2} less to cast."
+Chaos: "You may exile target instant or sorcery card from target player's graveyard, until end of turn you may cast that card it costs {2) less to cast and you may spend mana as though it were mana of any color to cast that spell."
 }
 {
 id: 5
-name: Archmages Chambers
-type: "Plane - Zaegoth"
-planeshift: "Whenever you choose one or more targets, each player reveals the top card of his or her library. The player who reveals the card with the highest converted mana cost may change the target or targets. If two or more cards are tied for highest cost, the target or targets remain unchanged."
-chaos: "Scry 3"
+Name: Archmages Chambers
+Type: "Plane - Zaegoth"
+Planeshift: "Whenever you choose one or more targets, each player reveals the top card of his or her library. The player who reveals the card with the highest converted mana cost may change the target or targets. If two or more cards are tied for highest cost, the target or targets remain unchanged."
+Chaos: "Scry 3"
+}
+{
+id: 6 
+Name: Arena of Heros
+Type: "Plane: Zaegoth"
+Planeshift: "At the end of your turn you may have a target creature you control deal damage equal to its power to target creature an opponent controls."
+Chaos: "Choose a target creature you control and a target creature an opponent controls, those creatures fight."
+}
+{id: 7 
+Name: Gloomwood
+Type: "Plane: Zaegoth"
+Planeshift: "Creatures dont untap during their controllers untap steps. Untapped creatures have Shroud."
+Chaos: "Create a 1/1 green Insect creature token for each creature you control."
+}
+{
+id: 8 
+Name: Astral Arena
+Type: "Plane: Kolbahan"
+Planeshift: "No more than one creature can attack each combat. No more than one creature can block each combat."
+Chaos: "Once during your turn Astral Arena deals 2 damage to each creature."
+}
+{
+id: 9 
+Name: Azglors Altar
+Type: "Plane: Nether Realm"
+Planeshift: "At the beginning of your upkeep, create a 0/1 black Human Cleric creature token with Sacrifice this permanent: Add one generic mana to your mana pool. At any time, you may sacrifice six Cleric tokens. If you do, search your library for a creature card and put it onto the battlefield, then shuffle your library."
+Chaos: "Creatures you control have Sacrifice this creature: Deal 3 damage to target creature or player until end of turn."
+}
+{
+id: 10 
+Name: Bala Thuuls Castle
+Type: "Plane: Zaegoth"
+Planeshift: "During your end step you may destroy a target creature, it can't be regenerated."
+Chaos: "Clash with a target opponent. If you win, you may choose a creature card from that playe"r's graveyard, and put it onto the battlefield under your control. If the target opponent wins they choose a creature card from your graveyard, and put it onto the battlefield under their control.
+}
+{
+id: 11 
+Name: Bandit Citadel
+Type: "Plane: Kamigawa"
+Planeshift: "Whenever a creature attacks, it gets +2/+0 until end of turn."
+Chaos: "Sacrifice a creature you control. You gain 3 life."
+}
+{
+id: 12 
+Name: Breathtaking Vista
+Type: "Plane: Ushval"
+Planeshift: "At the beginning of your upkeep, you may search your library for a basic land card, put it into your hand, and shuffle your library."
+Chaos: "You may have target creature get +0/+X until end of turn, where X is equal to the number of lands you control."
+}
+{
+id: 13 
+Name: Candyland
+Type: "Plane: Forgotten Realm"
+Planeshift: "At the beginning of your precombat main phase, put a candy counter on Candyland, then add X mana of any one color to your mana pool for each candy counter on it."
+Chaos: "Candyland deals X damage to target creature or player, where X is the number of candy counters on Candyland."
+}
+{
+id: 14 
+Name: Carac Agaialor
+Type: "Plane: Oblivion"
+Planeshift: "Commanders are Indestructible."
+Chaos: "Once during your turn Carac Agaialor deals damage to each player equal to the number of creatures they control."
+}
+{
+id: 15 
+Name: Catacombs of Viskar
+?Type: "Plane: Ushval"
+Planeshift: "Each player puts the top five cards of their library into their graveyard. Whenever a creature would die, its controller may pay its mana cost, if that player does, they may return it to their hand."
+Chaos: "Once prior during your turn put a creature card from your graveyard onto the battlefield. ""
+}
+{
+id: 16 
+Name: Celestine Reef
+Type: "Plane: Luvion"
+Planeshift:" Creatures without flying or islandwalk can't attack."
+Chaos: "Until your next turn you can't lose the game and your opponents can't win the game."
+}
+{
+id: 17 
+Name: Cliffs of Contradiction
+Type: "Plane: Inversia"
+Planeshift: "At the beginning of your upkeep, look at your top card of your library then place it onto the battlefield face down. It's a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card."
+Chaos: "Turn all face down cards on the battlefield face up. Any instant or sorcery cards revealed this way are put into the graveyard with no effect."
+}
+{
+id: 18 
+Name: Court of Loarderon
+Type: "Plane: Azeroth"
+Planeshift: Your opponents can't cast spells or activate abilities during your turn."
+Chaos: "Each opponent exiles a card of their choosing from their hand, you may cast those cards for their converted mana costs. Cards not cast are left in exile."
+}
+{
+id: 19 
+Name: Dal-Shan
+Type "Plane: Tarkir"
+Planeshift: "All creatures lose Flying and cannot gain Flying."
+Chaos: "Deal 1 damage to each creature. Damage dealt this way can't be prevented."
+}
+{
+id: 20 
+Name: Dalaran
+Type "Plane: Azeroth"
+Planeshift: "Instant and Sorcery spells cost 1 less to cast."
+Chaos: "Once during your turn, create a 9/9 colorless Golem artifact creature token that comes into play at the end of your turn."
+}
+{
+id: 21 
+Name: Dalarbek Jungle
+Type: "Plane: Zaegoth"
+Planeshift: "Whenever a creature you control attacks, put a +1/+1 counter on it."
+Chaos: "Creatures you control get Trample until end of turn."
+}
+{
+id: 22 
+Name: Doomraider Encampment
+Type: "Plane: Ushval"
+Planeshift: "Whenever a creature enters the battlefield, it gains Haste and Trample until end of turn."
+Chaos: "If you put a creature on the battlefield from your hand create two 3/1 red and black Goblin Warrior creature tokens."
 }
 {
 id: 23 
-name: "Edge of Malacol"
-type: Plane - Belenon"
-planeshift: At the beginning of your upkeep may choose to put two +1/+1 counters on target creature you control, if you do tap that creature.
-chaos: "Untap each creature you control."
+Name: Edge of Malacol
+Type: "Plane - Belenon"
+Planeshift: "At the beginning of your upkeep, if you control seven or more basic lands of the same type you may return a target creature from your graveyard to the battlefield."
+Chaos: "You may return target permanent card from your graveyard to your hand." 
 }
 {
 id: 24 
-name: "Eloren Wilds"
-type: "Plane - Shandalar"
-planeshift: "Whenever a player taps a permanent for mana, that player adds one mana to his or her mana pool of any type that permanent produced"
-chaos: "That player can't cast spells until a player planeswalks."
+Name: Eloren Wilds
+Type: "Plane: Shandalar"
+Planeshift: "A player may tap a permanent for mana, that player adds one mana to his or her mana pool of any type."
+Chaos: "Target player can't cast spells during your turn."
 }
 {
 id: 25 
-name: Emeria
-type: "Plane - Zendikar"
-planeshift: "At the beginning of your upkeep, if you control seven or more basic lands of the same type you may return a target creature from your graveyard to the battlefield."
-chaos: "You may return target permanent card from your graveyard to your hand." 
+Name: Emeria
+Type: "Plane: Zendikar"
+Planeshift: "At the beginning of your upkeep, if you control seven or more of the same type of land you may return a target creature from your graveyard to the battlefield."
+Chaos: "You may return target permanent from your graveyard to your hand. "
+}
+{
+id: 26 
+Name: Fangorn Keep
+Type: "Plane: Nozgorod"
+Planeshift: "At the beginning of your upkeep, put a Rumble counter on this Planechase card, and create X colorless 1/1 worker artifact creature tokens, where X is equal to the number of Rumble counters on this Planechase card."
+Chaos: "Destroy all nonland permanents with converted mana cost less then the number of Rumble counters on this planechase card. Then remove this Planechase card from the game."
+}
+{
+id: 27 
+Name: Etiri's Factory
+Type: "Plane: Zaegoth"
+Planeshift: "Creatures you control have Vigilance."
+Chaos: "You may put target nonland permanent on the bottom of its owners library."
+}
+{
+id: 28 
+Name: Fortress of Jin-Gitaxius
+Type: "Plane: New Phyrexia"
+Planeshift: "At the beginning of your upkeep, discard a card at random from your hand, if you can."
+Chaos: "Draw seven cards."
+}
+{
+id: 29 
+Name: Furnace Layer
+Type: "Plane: New Phyrexia"
+Planeshift: "At the beginning of your upkeep, select target player at random. That player discards a card. If that player discards a land card this way, he or she loses 3 life."
+Chaos: "You may destroy a target land you control to destory a target nonland permanent."
+}
+{
+id: 30 
+Name: Gaeas Sanctuary
+Type: "Plane: Dominaria"
+Planeshift: "Creature spells cant be countered. Players can't draw more then one card each turn."
+Chaos: "Once during your turn. Search your library for a creature card, reveal it, and add it to your hand. Then shuffle your library.}"
 }
 }
